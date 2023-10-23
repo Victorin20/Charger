@@ -1,0 +1,41 @@
+﻿  charger.cpp
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(21,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(53,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(53,42): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(59,70): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(59,46): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(61,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(66,71): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(66,46): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(68,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(73,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(73,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  charger.vcxproj -> C:\Users\Victorin\source\repos\charger\x64\Release\charger.exe
